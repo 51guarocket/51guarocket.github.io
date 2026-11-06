@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "project": "project-13881507",
+  "generated_at": "2026-09-15 20:10:47",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/category/ke-ji",
+    "/category/she-hui",
+    "/category/sheng-huo",
+    "/category/ti-yu",
+    "/category/ying-shi",
+    "/category/yu-le",
+    "/topic/t-keji-aiphoto",
+    "/topic/t-keji-fold",
+    "/topic/t-shehui-dazi",
+    "/topic/t-shehui-travel",
+    "/topic/t-shehui-yepa",
+    "/topic/t-shenghuo-camp",
+    "/topic/t-shenghuo-coffee",
+    "/topic/t-tiyu-marathon",
+    "/topic/t-tiyu-shoes",
+    "/topic/t-yingshi-duanju",
+    "/topic/t-yingshi-summer",
+    "/topic/t-yingshi-variety",
+    "/topic/t-yule-idol",
+    "/topic/t-yule-ticket"
+  ],
+  "route_count": 22,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
